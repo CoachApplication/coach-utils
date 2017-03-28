@@ -3,7 +3,7 @@ package utils_test
 import (
 	"testing"
 
-	utils "github.com/CoachApplication/coach-utils"
+	utils "github.com/CoachApplication/utils"
 )
 
 // We use the unique string slice in the backend provider, so we should test that it works

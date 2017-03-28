@@ -3,7 +3,7 @@ package utils_test
 import (
 	"testing"
 
-	utils "github.com/CoachApplication/coach-utils"
+	utils "github.com/CoachApplication/utils"
 )
 
 type TestStruct struct {
